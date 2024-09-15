@@ -3,7 +3,7 @@ import Header from "../Components/Header";
 
 const Home = () => {
   return (
-    <div>
+    <div className=" bg-bgCustom min-h-screen w-screen">
       <Header />
     </div>
   );
